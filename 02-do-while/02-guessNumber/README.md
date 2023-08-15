@@ -6,6 +6,15 @@
 - หากพิมพ์ถูกให้แสดงคำว่าถูกต้อง และให้แสดงจำนวนครั้งที่ทาย
 
 
+
+//PROGRAM-1 : Input User-1
+prompt('Enter your magic number')
+
+
+
+
+
+
 ```js
 /*
 For USER 1 
